@@ -1,0 +1,9 @@
+?   	Product	[no test files]
+---------------------------------------------
+Products Rate Before Discount -  [{Product 1 Electronic 100 Seller 1} {Product 2 Grocery 200 Seller 2} {Product 3 Clothing 300 Seller 3}]
+---------------------------------------------
+---------------------------------------------
+Products At Discounted Rate - 
+---------------------------------------------
+PASS
+ok  	Product/services	28.333s
