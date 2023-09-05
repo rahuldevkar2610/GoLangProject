@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Apple Iphone 12",
+        "producttype": "Electronic",
+        "price": 69000,
+        "seller": "Apple.com"
+    },
+    {
+        "name": "MSI Gaming NoteBook GF63 8rc",
+        "producttype": "Electronic",
+        "price": 93000,
+        "seller": "msi.com"
+    },
+    {
+        "name": "Sandisk SSD 512GB",
+        "producttype": "Electronic",
+        "price": 9999,
+        "seller": "Amazon.com"
+    },
+    {
+        "name": "Wheat",
+        "producttype": "Grocery",
+        "price": 69,
+        "seller": "bigbasket.com"
+    },
+    {
+        "name": "Basmati Rice",
+        "producttype": "Grocery",
+        "price": 99,
+        "seller": "grofers.com"
+    },
+    {
+        "name": "US Polo T-Shirt",
+        "producttype": "Clothing",
+        "price": 1200,
+        "seller": "Myntra.com"
+    },
+    {
+        "name": "Pepe jeans",
+        "producttype": "Clothing",
+        "price": 2500,
+        "seller": "flipkart.com"
+    },
+    {
+        "name": "Amul Milk",
+        "producttype": "Kitchen",
+        "price": 1200,
+        "seller": "grofers.com"
+    }
+]
